@@ -1,0 +1,15 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\bin\Debug\net8.0\AdivinarNumero.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\bin\Debug\net8.0\AdivinarNumero.deps.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\bin\Debug\net8.0\AdivinarNumero.runtimeconfig.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\bin\Debug\net8.0\AdivinarNumero.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\bin\Debug\net8.0\AdivinarNumero.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.AssemblyInfoInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.AssemblyInfo.cs
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.sourcelink.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\refint\AdivinarNumero.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\AdivinarNumero.genruntimeconfig.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\AdivinarNumero\AdivinarNumero\obj\Debug\net8.0\ref\AdivinarNumero.dll
