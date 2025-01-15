@@ -1,0 +1,15 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\bin\Debug\net8.0\Ahorcado.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\bin\Debug\net8.0\Ahorcado.deps.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\bin\Debug\net8.0\Ahorcado.runtimeconfig.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\bin\Debug\net8.0\Ahorcado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\bin\Debug\net8.0\Ahorcado.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.AssemblyInfo.cs
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.sourcelink.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\refint\Ahorcado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\Ahorcado.genruntimeconfig.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Ahorcado\Ahorcado\obj\Debug\net8.0\ref\Ahorcado.dll
