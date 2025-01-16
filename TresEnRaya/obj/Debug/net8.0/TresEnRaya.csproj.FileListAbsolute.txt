@@ -1,0 +1,15 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\bin\Debug\net8.0\TresEnRaya.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\bin\Debug\net8.0\TresEnRaya.deps.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\bin\Debug\net8.0\TresEnRaya.runtimeconfig.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\bin\Debug\net8.0\TresEnRaya.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\bin\Debug\net8.0\TresEnRaya.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.AssemblyInfoInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.AssemblyInfo.cs
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.sourcelink.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\refint\TresEnRaya.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\TresEnRaya.genruntimeconfig.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRaya\obj\Debug\net8.0\ref\TresEnRaya.dll

@@ -1,0 +1,15 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\bin\Debug\net8.0\TresEnRayaMejorado.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\bin\Debug\net8.0\TresEnRayaMejorado.deps.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\bin\Debug\net8.0\TresEnRayaMejorado.runtimeconfig.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\bin\Debug\net8.0\TresEnRayaMejorado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\bin\Debug\net8.0\TresEnRayaMejorado.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.AssemblyInfoInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.AssemblyInfo.cs
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.sourcelink.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\refint\TresEnRayaMejorado.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\TresEnRayaMejorado.genruntimeconfig.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\TresEnRayaMejorado\obj\Debug\net8.0\ref\TresEnRayaMejorado.dll
