@@ -1,0 +1,14 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\bin\Debug\net8.0\Mazmorras.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\bin\Debug\net8.0\Mazmorras.deps.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\bin\Debug\net8.0\Mazmorras.runtimeconfig.json
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\bin\Debug\net8.0\Mazmorras.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\bin\Debug\net8.0\Mazmorras.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.AssemblyInfoInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.AssemblyInfo.cs
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\refint\Mazmorras.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.genruntimeconfig.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\ref\Mazmorras.dll
