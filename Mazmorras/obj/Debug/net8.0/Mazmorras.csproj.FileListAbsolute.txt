@@ -12,3 +12,4 @@ C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8
 C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.pdb
 C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.genruntimeconfig.cache
 C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\ref\Mazmorras.dll
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\Mazmorras\obj\Debug\net8.0\Mazmorras.sourcelink.json

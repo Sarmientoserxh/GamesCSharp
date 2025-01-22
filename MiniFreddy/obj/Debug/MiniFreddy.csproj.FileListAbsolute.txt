@@ -1,0 +1,8 @@
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\bin\Debug\MiniFreddy.exe.config
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\bin\Debug\MiniFreddy.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\bin\Debug\MiniFreddy.pdb
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\obj\Debug\MiniFreddy.csproj.AssemblyReference.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\obj\Debug\MiniFreddy.csproj.CoreCompileInputs.cache
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\obj\Debug\MiniFreddy.csproj.Up2Date
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\obj\Debug\MiniFreddy.exe
+C:\Users\Serxch\source\repos\Sarmientoserxh\GamesCSharp\MiniFreddy\obj\Debug\MiniFreddy.pdb
